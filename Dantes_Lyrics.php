@@ -55,6 +55,8 @@ $outro = ["I tried to hide but something broke",
       background-color: #DAB1DA;
       font-family: Georgia;
       color: white;
+      background-image: url(https://img.freepik.com/free-vector/gradient-galaxy-background_23-2148988608.jpg?semt=ais_hybrid&w=740&q=80);
+      background-size: cover;
     }
 
     img {
@@ -95,3 +97,4 @@ $outro = ["I tried to hide but something broke",
   </div>
 </body>
 </html>
+
